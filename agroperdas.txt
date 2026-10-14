@@ -1,0 +1,10 @@
+RELATORIO AGROPERDAS
+==============================
+area_hectares: 100.0
+produtividade_toneladas_hectare: 150.0
+percentual_perda: 12.0
+preco_por_tonelada: 11.0
+producao_total: 15000.0
+toneladas_perdidas: 1800.0
+classificacao_perda: Alta
+prejuizo_reais: 19800.0
